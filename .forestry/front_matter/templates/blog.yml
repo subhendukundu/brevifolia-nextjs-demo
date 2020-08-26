@@ -1,4 +1,9 @@
 ---
 label: blog
 hide_body: false
-fields: []
+fields:
+- name: ck
+  type: include
+  config: {}
+  template: blog
+  label: ck
